@@ -1,29 +1,29 @@
-# Hello World Program
+# Overview
 
-## Overview
+As a software engineer, I am continuously learning how to build and manage software projects using modern development tools. This project helped me practice writing a simple program and managing code using version control.
 
-This program prints "Hello World" to the screen. It was created as part of my first software portfolio assignment.
+The software I created is a basic Hello World program that prints a greeting message to the screen. It demonstrates the basic structure of a program and how code can be executed in a programming environment.
 
-## Development Environment
+My purpose for creating this software was to practice setting up a development environment, writing a simple program, and publishing the code to a public GitHub repository. This also helped me understand how to document software projects using a README file.
 
-- Visual Studio Code
+[Software Demo Video](https://www.loom.com/share/5e8d65dead5e49f4b077ee19475260aa)
+
+# Development Environment
+
+The tools I used to develop this software include:
+
+- GitHub for storing and managing the code repository
+- Git for version control
+- Visual Studio Code as the code editor
+
+Programming Language Used:
+
 - Python
-- Git
-- GitHub
 
-## Programming Language
+# Useful Websites
 
-Python
+The following websites were helpful while working on this project:
 
-## Program Description
-
-This simple program prints a greeting message to the screen.
-
-## Video Demonstration
-
-YouTube Link: (Paste your video link here)
-
-## Useful Websites
-
-- https://python.org
-- https://github.com
+- [Python Official Website](https://www.python.org/)
+- [GitHub Guides](https://guides.github.com/)
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
